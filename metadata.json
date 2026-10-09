@@ -1,0 +1,6 @@
+{
+  "name": "ServiceFlow HVAC",
+  "description": "Aplicație mobilă pentru gestionarea programărilor și intervențiilor HVAC pentru companii de service din București.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
